@@ -1,7 +1,5 @@
 # Quantum Encryption Password Manager
 
-This repository contains a basic and theoretical representation of a quantum encryption password manager using the Qiskit framework. It is intended for educational purposes and is NOT suitable for real-world cryptographic applications.
-
 ## Overview
 
 The code demonstrates the BB84 quantum key distribution protocol to generate a shared secret key between two parties (emulated as Alice and Bob). The key is then used for encrypting and decrypting passwords using a simple XOR operation.
